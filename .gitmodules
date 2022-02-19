@@ -1,0 +1,3 @@
+[submodule "rubricas_2h"]
+	path = rubricas_2h
+	url = git@github.com:Kerjox/rubricas_2h.git
