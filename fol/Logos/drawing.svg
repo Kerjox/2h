@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.80087682"
-     inkscape:cx="-546.90058"
-     inkscape:cy="660.52605"
+     inkscape:zoom="0.40043841"
+     inkscape:cx="-721.70899"
+     inkscape:cy="819.10224"
      inkscape:window-width="2560"
      inkscape:window-height="1377"
      inkscape:window-x="-8"
@@ -81,8 +81,8 @@
        id="rect31"
        width="147.92043"
        height="145.12947"
-       x="-192.27364"
-       y="72.680748"
+       x="29.73304"
+       y="45.590649"
        rx="13.214683"
        ry="13.214683"
        inkscape:export-filename="S:\Descargas\logo_completo.png"
@@ -90,7 +90,7 @@
        inkscape:export-ydpi="96" />
     <g
        id="g6659"
-       transform="matrix(0.11054012,0,0,0.11054012,-174.04255,90.019506)"
+       transform="matrix(0.11054012,0,0,0.11054012,47.964125,62.929406)"
        style="fill:#ffffff;filter:url(#filter9024)"
        inkscape:export-filename="S:\Descargas\logo_completo.png"
        inkscape:export-xdpi="96"
@@ -118,8 +118,8 @@
     <text
        xml:space="preserve"
        style="font-size:42.3333px;line-height:1.35;font-family:'ONE DAY';-inkscape-font-specification:'ONE DAY';letter-spacing:0.79375px;stroke-width:0.264583"
-       x="-338.29587"
-       y="273.8743"
+       x="-116.28919"
+       y="246.78419"
        id="text2748"
        inkscape:export-filename="S:\Descargas\logo_completo.png"
        inkscape:export-xdpi="96"
@@ -127,7 +127,7 @@
          sodipodi:role="line"
          id="tspan2746"
          style="font-size:42.3333px;stroke-width:0.264583"
-         x="-338.29587"
-         y="273.8743">bionica automations</tspan></text>
+         x="-116.28919"
+         y="246.78419">bionica automations</tspan></text>
   </g>
 </svg>
