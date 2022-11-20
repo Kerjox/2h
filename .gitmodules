@@ -1,3 +1,6 @@
 [submodule "rubricas_2h"]
 	path = rubricas_2h
 	url = git@github.com:Kerjox/rubricas_2h.git
+[submodule "Plan_de_Empresa/Anexos/Anexo 3 - Estructura Lógica/materiales_ciber"]
+	path = Plan_de_Empresa/Anexos/Anexo 3 - Estructura Lógica/materiales_ciber
+	url = git@github.com:Kerjox/materiales_ciber.git
